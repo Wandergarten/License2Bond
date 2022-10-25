@@ -24,7 +24,7 @@ License to team up, Mr. Lighthouse!
   * [linkedin.com](https://www.linkedin.com/in/markus-muenster) <a href="https://wwww.linkedin.com/in/markus-muenster"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/LinkedIN_black.svg" alt="LinkedIn" width="21px"/></a>
 
 ### Mr. "Data-Are-My-Hobby"
-![chris](https://github.com/Wandergarten/Open-Minds-Malzfabrik-Berlin-2022/blob/main/chris-1.png)
+![chris](https://github.com/Wandergarten/License2Bond/blob/main/chris-2.png)
 
 * 27 yo
 * Academic background: Economics -> Business Informatics -> Data Science
@@ -35,7 +35,7 @@ License to team up, Mr. Lighthouse!
   * [github.com](https://www.github.com/wandergarten) <a href="https://github.com/Wandergarten"><img align="left" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Github_black.svg" alt="LinkedIn" width="21px"/></a>
 
 # Who We Want
-![Check this out!](https://i.imgur.com/zqKE7vO.png)
+![Check this out!](https://i.imgur.com/xLqAu0C.png)
 
 * Data Scientists: [Intern/Working Student](https://jobs.kpmg.de/default/job/Berlin-Werkstudent-%28wmd%29-Data-Science-Data-Analytics-10785/571913501/)
 * Data Engineers: [Intern/Working Student](https://jobs.kpmg.de/default/job/Berlin-Werkstudent-%28wmd%29-IT-Strategie-IT-Architektur-10785/571916701/)
